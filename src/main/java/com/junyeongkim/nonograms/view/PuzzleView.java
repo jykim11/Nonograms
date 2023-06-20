@@ -1,12 +1,10 @@
-package com.comp301.a09nonograms.view;
+package com.junyeongkim.nonograms.view;
 
-import com.comp301.a09nonograms.controller.Controller;
-import javafx.event.EventHandler;
+import com.junyeongkim.nonograms.controller.Controller;
 import javafx.scene.Parent;
 import javafx.scene.control.Button;
 import javafx.scene.control.Label;
 import javafx.scene.input.MouseButton;
-import javafx.scene.input.MouseEvent;
 import javafx.scene.layout.GridPane;
 
 public class PuzzleView implements FXComponent {

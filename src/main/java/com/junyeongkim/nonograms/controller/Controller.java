@@ -1,6 +1,6 @@
-package com.comp301.a09nonograms.controller;
+package com.junyeongkim.nonograms.controller;
 
-import com.comp301.a09nonograms.model.Clues;
+import com.junyeongkim.nonograms.model.Clues;
 
 public interface Controller {
   /** Gets the clues for the active puzzle board */

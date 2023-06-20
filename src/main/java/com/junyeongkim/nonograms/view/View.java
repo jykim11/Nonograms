@@ -1,6 +1,6 @@
-package com.comp301.a09nonograms.view;
+package com.junyeongkim.nonograms.view;
 
-import com.comp301.a09nonograms.controller.Controller;
+import com.junyeongkim.nonograms.controller.Controller;
 import javafx.scene.Parent;
 import javafx.scene.layout.VBox;
 

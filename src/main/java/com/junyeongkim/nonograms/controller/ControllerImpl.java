@@ -1,8 +1,8 @@
-package com.comp301.a09nonograms.controller;
+package com.junyeongkim.nonograms.controller;
 
-import com.comp301.a09nonograms.model.Clues;
-import com.comp301.a09nonograms.model.Model;
-import com.comp301.a09nonograms.model.ModelImpl;
+import com.junyeongkim.nonograms.model.Clues;
+import com.junyeongkim.nonograms.model.Model;
+import com.junyeongkim.nonograms.model.ModelImpl;
 
 public class ControllerImpl implements Controller {
   private final Model model;

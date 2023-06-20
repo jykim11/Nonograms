@@ -1,6 +1,4 @@
-package com.comp301.a09nonograms.model;
-
-import java.util.Arrays;
+package com.junyeongkim.nonograms.model;
 
 public class CluesImpl implements Clues {
   private final int[][] rowClues;

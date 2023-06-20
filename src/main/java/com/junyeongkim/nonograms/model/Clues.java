@@ -1,4 +1,4 @@
-package com.comp301.a09nonograms.model;
+package com.junyeongkim.nonograms.model;
 
 public interface Clues {
   /** Getter method for the number of cells horizontally in each row of the puzzle */

@@ -1,4 +1,4 @@
-package com.comp301.a09nonograms.model;
+package com.junyeongkim.nonograms.model;
 
 public interface Board {
   /** Returns true if the cell at the given location is shaded */

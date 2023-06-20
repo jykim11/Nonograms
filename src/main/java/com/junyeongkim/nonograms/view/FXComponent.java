@@ -1,4 +1,4 @@
-package com.comp301.a09nonograms.view;
+package com.junyeongkim.nonograms.view;
 
 import javafx.scene.Parent;
 

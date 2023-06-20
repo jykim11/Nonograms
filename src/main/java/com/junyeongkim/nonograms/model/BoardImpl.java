@@ -1,4 +1,4 @@
-package com.comp301.a09nonograms.model;
+package com.junyeongkim.nonograms.model;
 
 public class BoardImpl implements Board {
   private final Clues clues;

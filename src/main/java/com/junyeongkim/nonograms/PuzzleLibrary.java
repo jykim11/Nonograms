@@ -1,7 +1,8 @@
-package com.comp301.a09nonograms;
+package com.junyeongkim.nonograms;
 
-import com.comp301.a09nonograms.model.Clues;
-import com.comp301.a09nonograms.model.CluesImpl;
+import com.junyeongkim.nonograms.model.Clues;
+import com.junyeongkim.nonograms.model.CluesImpl;
+
 import java.util.ArrayList;
 import java.util.List;
 

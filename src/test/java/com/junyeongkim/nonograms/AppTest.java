@@ -1,8 +1,9 @@
-package com.comp301.a09nonograms;
+package com.junyeongkim.nonograms;
 
 import static org.junit.Assert.assertTrue;
 
 import com.comp301.a09nonograms.model.*;
+import com.junyeongkim.nonograms.model.*;
 import org.junit.Test;
 
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package com.comp301.a09nonograms.model;
+package com.junyeongkim.nonograms.model;
 
 import java.util.ArrayList;
 import java.util.List;

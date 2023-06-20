@@ -1,11 +1,11 @@
-package com.comp301.a09nonograms.view;
+package com.junyeongkim.nonograms.view;
 
-import com.comp301.a09nonograms.PuzzleLibrary;
-import com.comp301.a09nonograms.controller.Controller;
-import com.comp301.a09nonograms.controller.ControllerImpl;
-import com.comp301.a09nonograms.model.Clues;
-import com.comp301.a09nonograms.model.Model;
-import com.comp301.a09nonograms.model.ModelImpl;
+import com.junyeongkim.nonograms.PuzzleLibrary;
+import com.junyeongkim.nonograms.controller.Controller;
+import com.junyeongkim.nonograms.controller.ControllerImpl;
+import com.junyeongkim.nonograms.model.Clues;
+import com.junyeongkim.nonograms.model.Model;
+import com.junyeongkim.nonograms.model.ModelImpl;
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
